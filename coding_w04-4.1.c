@@ -6,3 +6,4 @@ int main() {
 
     return 0;
 }
+//code error เพราะ 90.5 เป็นทศนิยม
